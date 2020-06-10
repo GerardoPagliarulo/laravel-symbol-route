@@ -1,5 +1,5 @@
-<footer>
-    <div class="main-footer flex-center">
+<footer class="main-footer">
+    <div class="flex-center">
         <h4>Social</h4>
         <div class="socials">
             <ul>

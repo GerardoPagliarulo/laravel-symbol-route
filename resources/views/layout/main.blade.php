@@ -45,6 +45,13 @@
                 top: 18px;
             }
 
+            .main-header,
+            .main-footer {
+                min-width: 100%;
+                background: #f2f2f2;
+            }
+
+            .main-header,
             .content {
                 text-align: center;
             }

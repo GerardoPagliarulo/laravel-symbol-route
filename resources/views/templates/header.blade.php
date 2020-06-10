@@ -1,5 +1,3 @@
-<header>
-    <h1 class="main-header">
-        BOOLEAN
-    </h1>
+<header class="main-header">
+    <h1>BOOLEAN CAREERS</h1>
 </header>
