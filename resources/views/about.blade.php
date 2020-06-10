@@ -5,9 +5,9 @@
             About us
         </div>
         <div class="links">
-            <a href="https://laravel.com/docs">Our story</a>
-            <a href="https://laracasts.com">Founders</a>
-            <a href="https://laravel-news.com">Teachers</a>
+            <a href="#">Our story</a>
+            <a href="#">Founders</a>
+            <a href="#">Teachers</a>
         </div>
     </div>
 @endsection
