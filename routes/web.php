@@ -15,13 +15,7 @@ use Illuminate\Support\Facades\Route;
 // BOOLEAN SITE
 // HOME PAGE
 Route::get('/index', 'HomeController@index');
-//Route::get('/', function () {
-//    return view('boolean-site.index');
-//});
 // ABOUT PAGE
 Route::get('/about', 'AboutController@index');
-//Route::get('/', function () {
-//    return view('boolean-site.about');
-//});
 
 
